@@ -1,6 +1,6 @@
 # Weather+geolocation React webapp for Web Dev course
 
-Weather API's API key is stored in src/apikey.js in state variable API_KEY which is ignored by Git. Create apikey.js or edit code to add your own key.
+Weather API's API key is stored in src/apikey.js in state variable API_KEY => edit the file to add your own key.
 
 Download the repo & run `npm install` to install all dependecies listed in package.json, then `npm start` in the root folder to launch the application. 
 
